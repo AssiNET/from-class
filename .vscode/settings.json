@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 14,
+    "editor.mouseWheelZoom": true,
+    "editor.renderWhitespace": "all",
+    "python.linting.enabled": false,
+    "python.autoComplete.extraPaths": [
+        "Tests",
+        "Tests/_lib.sikuli",
+        "Tests/_uimap.sikuli"
+    ],
+    "python.pythonPath": "C:\\Python27\\python.exe",
+}
